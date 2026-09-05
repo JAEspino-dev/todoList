@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="This is where your description goes">
+	<meta name="keywords" content="one, two, three">
+
+	<title>Todo List</title>
+
+	<!-- external CSS link -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	
+	<h1>To Do List</h1>
+	<p>How to Use: Enter your to-do item in the field below, then click “Add to List” to add it to your list. To delete an item, click “Select to Delete”, then choose the item you want to remove. To mark an item as completed, simply click the to-do item to strikethrough it.</p>
+	<div id="container1">
+		<label class="shortenWidth" for="userEntersTodo">Todo item to add to list</label>
+		<input id="itemToAddToList" name="userEntersTodo" type="text" placeholder="Add your todo here!">
+		<button class="shortenWidth"  id="submit" type="submit">Add to List</button>
+	</div>
+	<div id="container2">
+		<ul id="displayedList">
+		</ul>
+	</div>
+	<button id="selectItemsToDelete">Select to Delete</button>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+
+</html>
