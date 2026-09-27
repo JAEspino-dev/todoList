@@ -7,7 +7,8 @@ Add items to your todo list
 Cross off or delete as you go!
 
 # 📷 Images
-Drag and drop image here
+<img width="1907" height="730" alt="Screenshot 2026-09-27 at 12 47 26 AM" src="https://github.com/user-attachments/assets/05284fa6-621e-453c-a19b-3d9b7e5401cb" />
+
 
 # ✨ Features
 Fully responsive design for desktop and mobile
