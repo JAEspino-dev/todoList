@@ -1,5 +1,5 @@
 # 📋 TodoList
-Use this program if you want to see the NASA image of the day!
+Use this program if you want to keep track of Todos!  
 
 # 🧐 How to use
 Open the app in your browser
