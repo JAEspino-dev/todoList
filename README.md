@@ -11,7 +11,7 @@ Use this program if you want to keep track of Todos!
 
 
 # ✨ Features
-* Fully responsive design for desktop and mobile
+* Responsive design for desktop and mobile
 
 # 🔨 Built With
 * HTML5 – structure 
